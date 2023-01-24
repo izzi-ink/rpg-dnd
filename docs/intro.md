@@ -2,46 +2,23 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# The Campaign Setting
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Located north of the Burneal Forest, the Thunder Cult, an ancient cult of people that worshipped the god (lesser) of Sky and Weather, [Velnius](https://greyhawkonline.com/greyhawkwiki/index.php?title=Velnius), built a keep in the frozen north off the coast of the Dramidj Ocean known as Thunderclap Keep. Rumors and tales have swirled around for many centuries that a weapon of great power is held up in the icy crypt. A weapon so powerful, it is rumored that the Undying King, Vecna once held this weapon in hand but was defeated by a group of adventurers who ascended to divinity. No one knows what the weapon is, but all sorts of weapons have been thrown in the myths and rumors over the millennia.
 
-## Getting Started
+Many different stories have circulated about who the adventurers were and what is in the keep these days but no one knows for sure because of a cataclysmic event that occurred that buried the keep under several feet of ice and snow. Not including the harsh, cold climate of the land, no one has set foot (that is known) anywhere near the area where the keep was last known.
+
+Within the last three hundred years, many have tried to follow up on the stories and the legends and myths that swirl around in taverns and inns, no one that has left has come back alive or never been seen again. Thousands have died and bodies have been found and the names of those that have made the search for the keep have died trying to find the keep, known only as Thunderclap Keep.
+
+## The Party
 
 Get started by **creating a new site**.
 
 Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
 
-### What you'll need
+## Useful Links
 
-- [Node.js](https://nodejs.org/en/download/) version 16.14 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+### DnD Beyond
+We use DnD Beyond to manage our characters and the campaign.
 
-## Generate a new site
-
-Generate a new Docusaurus site using the **classic template**.
-
-The classic template will automatically be added to your project after you run the command:
-
-```bash
-npm init docusaurus@latest my-website classic
-```
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+- [Join on DnD Beyond](https://ddb.ac/campaigns/join/28515003339668192/).
