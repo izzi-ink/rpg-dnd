@@ -10,12 +10,6 @@ Many different stories have circulated about who the adventurers were and what i
 
 Within the last three hundred years, many have tried to follow up on the stories and the legends and myths that swirl around in taverns and inns, no one that has left has come back alive or never been seen again. Thousands have died and bodies have been found and the names of those that have made the search for the keep have died trying to find the keep, known only as Thunderclap Keep.
 
-## The Party
-
-Get started by **creating a new site**.
-
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
-
 ## Useful Links
 
 ### DnD Beyond
