@@ -4,32 +4,29 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
+    title: 'Roll and Flow',
     Svg: require('@site/static/img/icon-00.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        It matters not what you roll, but how you roll it. Randomness, as in life plays a role, it keeps us interested and on our toes. But it is not the only factor. You can choose to roll with the punches or fight back. The choice is yours.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'Kindness Matters',
     Svg: require('@site/static/img/icon-01.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Show courage and kindness and play nice! Or not! It's your choice. But be warned, if you are a jerk, you will be eaten by a grue.
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Powered by Lobster Rolls',
     Svg: require('@site/static/img/icon-02.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        As in life, lobster rolls play a crucial role in the game. A Lobster Roll is a food item that can be eaten to restore 1d6 hit points. It is a common food item, and can be found in most taverns and inns.
       </>
     ),
   },

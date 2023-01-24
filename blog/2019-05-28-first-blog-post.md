@@ -2,10 +2,10 @@
 slug: first-blog-post
 title: First Blog Post
 authors:
-  name: Gao Wei
+  name: Izzi Koning
   title: Docusaurus Core Team
-  url: https://github.com/wgao19
-  image_url: https://github.com/wgao19.png
+  url: https://github.com/izzi-ink
+  image_url: https://github.com/izzi-ink.png
 tags: [hola, docusaurus]
 ---
 
