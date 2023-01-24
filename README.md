@@ -1,6 +1,12 @@
-# Website
+# Promises and other Distress Inc
+
+Welcome, you stumbled on the campaign notes website of a small group of adventurers.
+You are most welcome to read through the notes and see what we have been up to.
+
+The storyline and material is based on the [Dungeons & Dragons 5E](https://dnd.wizards.com/) system.
 
 This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
+If you wanna learn more about Docusaurus, please check out their [documentation](https://v2.docusaurus.io/docs/).
 
 ### Installation
 
