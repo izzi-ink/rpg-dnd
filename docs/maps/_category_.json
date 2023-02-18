@@ -1,0 +1,8 @@
+{
+  "label": "Maps",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "description": "Major NPCs encountered during the campaign."
+  }
+}
