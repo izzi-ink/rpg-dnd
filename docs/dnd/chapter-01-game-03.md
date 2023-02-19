@@ -14,7 +14,7 @@ In addition to the map that Lux and Lokur had been given, the innkeeper, Mandol 
 
 For the first hour of the journey, things were uneventful, until Molly thought she spotted three figures moving in the grass. Three gruff and wild boars were interested in causing the party some damage, but Molly's southern twang and the bow string accompanying it, stopped them wild boars right in their tracks!
 
-Another hour into the journey, and Finn plucked at the harp strings that shone with iridescence while whistling and humming a tune. Tiny birds and critters came out of the bushes and trees, perching atop his shoulder and head.
+Another hour into the journey, and Finn plucked at slightly out of tune harp strings that shone with iridescence while whistling and humming a tune. Molly stopped Finn and tuned the harp. As Finn continued to play, tiny birds and critters came out of the bushes and trees, perching atop his shoulder and head.
 
 An ominous atmosphere filled the air, in the tall grass, the party could make out the silhouettes of two bears. With a flurry of blows, and spells, arrows and bolts the bears were defeated. The bears, knocked unconscious after some clever diversion tactics, some frantic maneuvering and a few well placed blows, were dragged off to the side of the road and left to sleep off their injuries. Molly made sure Lux was healed while the Sea Elf, curious to see if the Quill Token actually worked, managed to conjure a Giant Oak for the party to rest under, while they gathered their wits.
 
