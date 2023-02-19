@@ -12,7 +12,7 @@ Lux introduced Lokur to the rest of the party and they filled Molly and Finn in 
 
 In addition to the map that Lux and Lokur had been given, the innkeeper, Mandol Rene, also handed them a pouch that contained a blue gem. He told them that the gem would help them on their journey to the keep. When the magic properties were spent, the gem could be exchanged for 50 gold pieces.
 
-For the first hour of the journey, things were uneventful, until Molly thought she spotted three figures moving in the grass. Three gruff and wild boars were interested in causing the party some damage, but Molly's southern twang and the bow string accompanying it, stopped them wild boars right in their tracks!
+For the first hour of the journey, things were uneventful, until Molly thought she spotted three figures moving in the grass. Three gruff and wild boars were interested in causing the party some damage, but Molly's warning gave Finn an opportunity to ask them to leave, which they did!
 
 Another hour into the journey, and Finn plucked at slightly out of tune harp strings that shone with iridescence while whistling and humming a tune. Molly stopped Finn and tuned the harp. As Finn continued to play, tiny birds and critters came out of the bushes and trees, perching atop his shoulder and head.
 
