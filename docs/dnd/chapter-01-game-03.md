@@ -8,7 +8,7 @@ sidebar_position: 2
 
 ## 18 February 2023
 
-Lux introduced Lokur to the rest of the party and they filled Molly and Finn in on the strange events that had occurred in the Squirming Octopus tavern, while they had been asleep. Finn welcomed Lokur to the party and with a hug and a scoop, lifted the Sea Elf into his arms. Flustered and embarrassed, Molly tried to hide her face and caught completely off guard had no idea who "Charles the Octopus was" that Finn asked, with little room for awkwardness left, the party set off to find Jax. 
+Lux introduced Lokur to the rest of the party and they filled Molly and Finn in on the strange events that had occurred in the Squirming Octopus tavern, while they had been asleep. Finn welcomed Lokur to the party and with a hug and a scoop, lifted the Sea Elf into his arms. Flustered and embarrassed, Lokur tried to hide her face and caught completely off guard had no idea who "Charles the Octopus was" that Finn asked, with little room for awkwardness left, the party set off to find Jax. 
 
 In addition to the map that Lux and Lokur had been given, the innkeeper, Mandol Rene, also handed them a pouch that contained a blue gem. He told them that the gem would help them on their journey to the keep. When the magic properties were spent, the gem could be exchanged for 50 gold pieces.
 
