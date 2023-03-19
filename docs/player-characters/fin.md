@@ -13,7 +13,7 @@ _7’9 · 284lbs · 72 years old_
 
 Fin is tall with an athletic build.
 
-He has a shortish beard, kept relatively neat for a sailor. His hair is pulled back into a man bun, and he carries a small wooden lyre made from tree branches and glittering spider web silk. Animals seem attracted to him when he plays it.
+He has a shortish beard, kept relatively neat for a sailor. His hair is pulled back into a man bun, and he carries a wooden pipe that burns with a purple, sweet smelling smoke.
 
 Fin has tattoos on his hands and arms, including a giant octopus on his right forearm, and a black cat on his left (both magical). He wears a white linen shirt, unbuttoned halfway, sleeves rolled up, fitted khaki capri pants, and no shoes.
 
