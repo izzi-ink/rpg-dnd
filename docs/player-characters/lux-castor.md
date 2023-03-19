@@ -4,8 +4,6 @@ sidebar_position: 2
 
 # Lux Castor
 
-## Character Details
-
 **Player:** Ben M.
 
 **Race:** Half-Elf
