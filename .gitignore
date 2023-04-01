@@ -23,3 +23,7 @@ yarn-error.log*
 .yarnrc.yml
 .yarn
 yarn.lock
+
+
+# VS Code
+*.code-workspace
