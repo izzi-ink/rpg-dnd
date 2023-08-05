@@ -30,9 +30,8 @@ We now need to interrogate Louis.
 
 we each get 20 gold for returning the money. We also get....
 potions!
-Molly gets a flask with green liquid with green flames on the inside. Potion of Heroism
-Lux gets a watery grey liquid in a porcelain jar that is sealed with wax. Potion of Heroism
-Finn gets a swirling drought of a red potion in a square flask that smells like cinder. Potion of Demunition
 
-
-Potion of climbing for lokur.
+- Molly gets a flask with green liquid with green flames on the inside. Potion of Heroism
+- Lux gets a watery grey liquid in a porcelain jar that is sealed with wax. Potion of Heroism
+- Finn gets a swirling drought of a red potion in a square flask that smells like cinder. Potion of Demunition
+- Potion of climbing for lokur.
