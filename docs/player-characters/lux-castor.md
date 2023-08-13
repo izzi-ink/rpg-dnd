@@ -2,7 +2,9 @@
 sidebar_position: 2
 ---
 
-# Lux Castor
+# Lux Castor - Retired
+
+## Status: Retired
 
 **Player:** Ben M.
 
