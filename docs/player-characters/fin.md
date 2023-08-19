@@ -1,7 +1,10 @@
 ---
 sidebar_position: 2
 ---
-# Fin
+
+# Fin - Retired
+
+## Status: Retired
 
 <p><img alt="A tall, bluish firbolg wearing an off-white buttoned shirt and khaki capri pants. He has a staff covered in flowers in his hand, and isn't wearing any shoes. His arms have visible tattoos." src="/img/fin.jpg"/></p>
 
@@ -9,7 +12,7 @@ Player: Chris
 
 ## Backstory
 
-_7’9 · 284lbs · 72 years old_
+### _7’9 · 284lbs · 72 years old_
 
 Fin is tall with an athletic build.
 

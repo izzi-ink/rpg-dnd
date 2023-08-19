@@ -18,12 +18,12 @@ We acquire 3 potions of healing.
 While buying potions we discover the potion owner had been swindled with potions smelling of piss. We surmise it is
 the group we are already looking for, and agree to help the store owner get their money back.
 
-We stealthily travel to the "Death Shack" and eventually sneak/pry our way inside to a basement area. We discover 
-"Cassian" who we attempt to bargain with for the wand as well as the gold, but we only manage to get the gold. 
+We stealthily travel to the "Death Shack" and eventually sneak/pry our way inside to a basement area. We discover
+"Cassian" who we attempt to bargain with for the wand as well as the gold, but we only manage to get the gold.
 Cassian leaves with Michael Bolton, and we escape with our lives.
 
-Upon returning to the potions shop, we return the money and mention that we were unsuccessful in another thing we 
-were trying to do by getting Michael Bolton back. The shopkeep becomes enraged as his brother-in-law "Louis" was not 
+Upon returning to the potions shop, we return the money and mention that we were unsuccessful in another thing we
+were trying to do by getting Michael Bolton back. The shopkeep becomes enraged as his brother-in-law "Louis" was not
 supposed to be in possession of Michael Bolton, and DEFINITELY should not have sold it.
 
 We now need to interrogate Louis.
@@ -33,5 +33,5 @@ potions!
 
 - Molly gets a flask with green liquid with green flames on the inside. Potion of Heroism
 - Lux gets a watery grey liquid in a porcelain jar that is sealed with wax. Potion of Heroism
-- Finn gets a swirling drought of a red potion in a square flask that smells like cinder. Potion of Demunition
+- Finn gets a swirling drought of a red potion in a square flask that smells like cinder. Potion of Dimunition
 - Potion of climbing for lokur.
