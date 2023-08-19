@@ -3,7 +3,7 @@ sidebar_position: 2
 ---
 # Lokur
 
-<p><img alt="Character description will go here." src="/img/lokur.png"/></p>
+![Portrait of Lokur, who resembles a sweet and energetic blue sea elf with a gutsy yet shy look. She has a bushy bounce of blue hair.](/img/characters/lokur.png)
 
 Player: Izzi
 
@@ -22,4 +22,3 @@ The sea's vastness mirrored the vastness of her isolation, but it also hid her s
 Now, with whispers of her power spreading, Lokur faces a new challenge: harnessing her newfound abilities and finding her place amongst her people. And perhaps, just perhaps, this socially awkward sea elf would find her true calling, bridging the gap between her heritage and her destiny.
 
 
-![Portrait of Lokur, who resembles a sweet and energetic blue sea elf with a gutsy yet shy look. She has a bushy bounce of blue hair.](/img/characters/lokur.png)
