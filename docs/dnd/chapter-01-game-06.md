@@ -33,5 +33,5 @@ potions!
 
 - Molly gets a flask with green liquid with green flames on the inside. Potion of Heroism
 - Lux gets a watery grey liquid in a porcelain jar that is sealed with wax. Potion of Heroism
-- Finn gets a swirling drought of a red potion in a square flask that smells like cinder. Potion of Dimunition
-- Potion of climbing for lokur.
+- Fin gets a swirling drought of a red potion in a square flask that smells like cinder. Potion of Dimunition
+- Potion of climbing for Lokur.

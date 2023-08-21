@@ -15,3 +15,7 @@ sidebar_position: 2
 #### Tiger Nomads to Kershane Monastery area
 
 ![A map of the area between the Tiger Nomads and the southern reaches of the Yatil Mountains](https://res.cloudinary.com/colabottles/image/upload/v1680383807/images/Screenshot_2023-04-01_at_09.28.53_etfhg6.png)
+
+#### The area around Clatsberg and the Blind Guest Inn
+
+![A overland map showing the secondary and tertiary roads and river around the city of Clatsberg.](https://res.cloudinary.com/colabottles/image/upload/v1691901620/blindguest.png)
