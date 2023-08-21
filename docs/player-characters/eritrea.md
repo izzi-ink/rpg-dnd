@@ -3,7 +3,7 @@ sidebar_position: 2
 ---
 # Eritrea
 
-<p><img alt="Character description will go here." src="/img/eritrea.jpg"/></p>
+<p><img alt="Eritrea, human female from Baldur's Gate." src="[/img/eritrea.jpg](https://res.cloudinary.com/colabottles/image/upload/v1692652743/eritrea.jpg)"/></p>
 
 Player: Hailey
 
