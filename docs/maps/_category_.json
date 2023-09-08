@@ -1,8 +1,8 @@
 {
-  "label": "Maps",
+  "label": "Maps & Scenes",
   "position": 3,
   "link": {
     "type": "generated-index",
-    "description": "Major NPCs encountered during the campaign."
+    "description": "Major maps and scenes provided during the campaign."
   }
 }
