@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# Chapter 1: Game 1
+# Chapter 1: Game 9
 
 ## 2 September 2023
 
