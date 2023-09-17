@@ -6,7 +6,7 @@ sidebar_position: 6
 
 ## 2 September 2023
 
-**It's A Small World**
+### It's A Small World
 
 As we search the room, we notice that there are some bodies (including Lux and Finn) that have mysteriously gone missing when we turn back towards them.
 
@@ -18,9 +18,11 @@ We take a boat ride with Captain Jamaal (a goblin) and Barzad, down the Kershane
 
 We meet a creepy guy who won't look at us and says he's been expecting us. Clearly knows Jax, and he asks us to sit so we can chit chat. his name is Thallen.
 
-We will have to visit Gnomevale on the way to the temple of Tharizdun. He was a big bad, got banished, been trying to get back. his followers are trying to get him back. AHHH IT IS THE SAME THING WE HAVE BEEN LOOKING FOR. The black Cyst?
+We will have to visit Gnomevale on the way to the temple of Tharizdun. He was a big bad, got banished, been trying to get back. his followers are trying to get him back. AHHH IT IS THE SAME THING WE HAVE BEEN LOOKING FOR. The Black Cyst?
 
 Molly writes a song for Gnomevale:
+
+```txt
 It's a world of laughter
 A world of tears
 It's a world of hopes
@@ -46,7 +48,8 @@ It's a small world after all
 It's a small world after all
 It's a small world after all
 It's a small, small world
+```
 
-We eventually get to gnome vale, meet the gnomes and they have a giant norker problem. and a giant giant problem.
+We eventually get to Gnome Vale, meet the gnomes and they have a giant norker problem. and a giant giant problem.
 
 Groorg has taken up residence in the temple, and Gwaylar (leader of the gnomes) wants us to deal with him.
