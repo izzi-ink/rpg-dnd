@@ -28,3 +28,4 @@ yarn.lock
 # VS Code
 ./vscode
 *.code-workspace
+settings.json
