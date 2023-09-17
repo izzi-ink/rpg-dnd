@@ -6,7 +6,7 @@ sidebar_position: 2
 
 ## Maps that the party have obtained
 
-### Updated 16 September 2023
+### Updated: 16 September 2023
 
 #### Jax's Keep
 
