@@ -2,12 +2,14 @@
 sidebar_position: 6
 ---
 
-# Chapter 1: Game 14
+# Chapter 1: Game 15
 
-## 18 November 2023
+## 2 December 2023
 
-### Orc-a-cola: More Orcs Spill Across the Valley
+### The Orc Caves and the Approach
 
-As the party regrouped, another wave of orcs attacked. This time, with a Witch Doctor and many orc warlords. The party was able to fend off the horde with the help of the aarakocra and planetar.
+The characters plunder the caves where the orcs made their residence and dispatched of a few orcs while stealthily (and by manipulation) making their way in and out of the caves without too much incident.
 
-Once the battle was won, the group was ready to head to the Temple finally after camping and resting.
+The party has finally reached the valley where the Temple is as the aarakocra are good to their word and drop the party off there.
+
+From there, the party camps for the evening.
